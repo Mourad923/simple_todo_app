@@ -1,4 +1,4 @@
-# my-project
+# simple todo app
 
 > A Vue.js project
 
