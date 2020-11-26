@@ -1,1 +1,1 @@
-# simple_todo_app
+# todo_app_vuejs
